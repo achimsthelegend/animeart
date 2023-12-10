@@ -23,6 +23,10 @@ nav a {
     position: relative;
 }
 
+.openimg img {
+    width: 100%;
+}
+
 .animechar {
     height: 700px;
     width: 100%;
